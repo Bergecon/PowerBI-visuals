@@ -17,9 +17,7 @@
                 {
                     "category": {
                         "max": 1
-                    }
-                },
-                {
+                    },
                     "URL": {
                         "max": 1
                     }
@@ -35,9 +33,9 @@
                         },
                         {
                             "for": {
-                              "in": "URL"
+                                "in": "URL"
                             }
-                          }
+                        }
                     ]
                 }
             }
@@ -176,7 +174,7 @@
                     }
                 },
                 "textRotate": {
-                    "displayName": "Text rotatation (angle)",
+                    "displayName": "Text rotation (angle)",
                     "description": "Rotate the text by specified angle in degrees.",
                     "placeHolderText": "Auto",
                     "type": {
@@ -280,39 +278,39 @@
                                 "displayName": "None"
                             },
                             {
-                                "value": "topleft",
+                                "value": "topLeft",
                                 "displayName": "Top Left"
                             },
                             {
-                                "value": "topcenter",
+                                "value": "topCenter",
                                 "displayName": "Top Center"
                             },
                             {
-                                "value": "topright",
+                                "value": "topRight",
                                 "displayName": "Top Right"
                             },
                             {
-                                "value": "middleleft",
+                                "value": "middleLeft",
                                 "displayName": "Middle Left"
                             },
                             {
-                                "value": "middlecenter",
+                                "value": "middleCenter",
                                 "displayName": "Middle Center"
                             },
                             {
-                                "value": "middleright",
+                                "value": "middleRight",
                                 "displayName": "Middle Right"
                             },
                             {
-                                "value": "bottomleft",
+                                "value": "bottomLeft",
                                 "displayName": "Bottom Left"
                             },
                             {
-                                "value": "bottomcenter",
+                                "value": "bottomCenter",
                                 "displayName": "Bottom Center"
                             },
                             {
-                                "value": "bottomright",
+                                "value": "bottomRight",
                                 "displayName": "Bottom Right"
                             }
                         ]
@@ -365,7 +363,7 @@
                         ]
                     }
                 },
-                "backgroundcolor": {
+                "backgroundColor": {
                     "displayName": "Text highlighter",
                     "description": "Change background color of static text.",
                     "type": {
@@ -525,7 +523,7 @@
                         "bool": true
                     }
                 },
-                "strikethrough": {
+                "strikeThrough": {
                     "displayName": "Strike-through",
                     "description": "Strike-through the static text.",
                     "type": {
@@ -537,7 +535,7 @@
         "Settings": {
             "displayName": "Dynamic text settings",
             "properties": {
-                "backgroundcolor": {
+                "backgroundColor": {
                     "displayName": "Text highlighter",
                     "description": "Change background color of dynamic text.",
                     "type": {
@@ -591,39 +589,39 @@
                                 "displayName": "None"
                             },
                             {
-                                "value": "topleft",
+                                "value": "topLeft",
                                 "displayName": "Top Left"
                             },
                             {
-                                "value": "topcenter",
+                                "value": "topCenter",
                                 "displayName": "Top Center"
                             },
                             {
-                                "value": "topright",
+                                "value": "topRight",
                                 "displayName": "Top Right"
                             },
                             {
-                                "value": "middleleft",
+                                "value": "middleLeft",
                                 "displayName": "Middle Left"
                             },
                             {
-                                "value": "middlecenter",
+                                "value": "middleCenter",
                                 "displayName": "Middle Center"
                             },
                             {
-                                "value": "middleright",
+                                "value": "middleRight",
                                 "displayName": "Middle Right"
                             },
                             {
-                                "value": "bottomleft",
+                                "value": "bottomLeft",
                                 "displayName": "Bottom Left"
                             },
                             {
-                                "value": "bottomcenter",
+                                "value": "bottomCenter",
                                 "displayName": "Bottom Center"
                             },
                             {
-                                "value": "bottomright",
+                                "value": "bottomRight",
                                 "displayName": "Bottom Right"
                             }
                         ]
@@ -812,7 +810,7 @@
                         "bool": true
                     }
                 },
-                "strikethrough": {
+                "strikeThrough": {
                     "displayName": "Strike-through",
                     "description": "Strike-through the dynamic text.",
                     "type": {
